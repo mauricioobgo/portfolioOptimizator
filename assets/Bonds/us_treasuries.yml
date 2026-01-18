@@ -1,0 +1,7 @@
+name: US Treasuries
+tickers:
+  - SHY  # 1-3 Year
+  - IEF  # 7-10 Year
+  - TLT  # 20+ Year
+  - GOVT # All Maturities
+  - TIP  # TIPS

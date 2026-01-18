@@ -1,0 +1,12 @@
+name: Tech Stocks
+tickers:
+  - AAPL
+  - MSFT
+  - GOOGL
+  - AMZN
+  - NVDA
+  - META
+  - TSLA
+  - AMD
+  - INTC
+  - CRM
